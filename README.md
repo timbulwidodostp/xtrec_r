@@ -1,6 +1,8 @@
 # xtrec_r
 Panel unit root test based on recursive detrending (Westerlund 2015) Use xtrec With (In) R Software
 
+https://www.youtube.com/watch?v=Qcrf0xIOCsM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
